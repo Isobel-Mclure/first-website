@@ -1,10 +1,14 @@
 h1{
-	Color:black;
-	Size:30px;
+	color:black;
+	font-family:'Arial';
+	text-align:center;
+	size:30px;
 }
 
 
 p {
+		color:black;
+		text-align:center;
 		font-family:'Arial'
 		font-size: 20px;
 }
